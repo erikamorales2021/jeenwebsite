@@ -1,0 +1,22 @@
+.header{
+  background-image: url("");
+  text-align: center;
+  margin: 10px 20px 10px 20px;
+}
+.about-us{
+  font-size: 20px;
+  opacity: 0.5;
+  
+}
+.title{
+  font-weight: bold;
+}
+h1{
+  color: Azure;
+}
+
+body{
+  font-family: Georgia;
+  background-image: url("https://moderndogmagazine.com/sites/default/files/images/uploads/CanineBodyLanguage-15.jpg");
+}
+ 
