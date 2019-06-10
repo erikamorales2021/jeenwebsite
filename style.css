@@ -8,15 +8,43 @@
   opacity: 0.5;
   
 }
-.title{
+.list-title{
   font-weight: bold;
 }
 h1{
-  color: Azure;
+  color: Black;
+  font-family: Space Mono;
 }
 
 body{
   font-family: Georgia;
-  background-image: url("https://moderndogmagazine.com/sites/default/files/images/uploads/CanineBodyLanguage-15.jpg");
+  background-image: url("https://sftextures.com/texture/2748/0/2743/corner-pattern-background-light-grey-color-squared-90-degrees-lines-seamless-wallpaper-texture.jpg");
 }
- 
+h3{
+  color: purple;
+}
+h4{
+  color: purple;
+}
+table, tr, th, td {
+  border: 1px dotted black;
+   padding: 10px;
+} 
+.social-table{
+ background-color: #ffa8f0;
+}
+.form, .formtwo, .formthree{
+  text-allign: center;
+  padding: 20px;
+}
+.social-table{
+  margin: 0 auto;
+}
+p {
+ font-size: 25px;
+ font-weight: bold;
+}
+
+
+
+
