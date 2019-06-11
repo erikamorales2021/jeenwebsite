@@ -40,7 +40,7 @@ h3{
   color: gray;
   font-family: 'Thasadith', sans-serif
 }
-h4{
+#contact{
   color: gray;
   font-family: 'Thasadith', sans-serif
 }
@@ -61,19 +61,17 @@ table, tr, th, td {
 p {
  font-size: 15px;
  font-weight: bold;
- font-family: 'Thasadith', sans-serif
+ font-family: 'Thasadith', sans-serif;
 }
 .cucopart, .brockpart, .cosmicpart, .avengerpart{
   font-size: 15px;
   opacity: 0.75;
 }
 li{
-  font-family: 'Thasadith', sans-serif
+  font-family: 'Thasadith', sans-serif;
 }
 h5{
   border: #ffffff 8px dotted;
   width: 0 auto;
   
 }
-
-
