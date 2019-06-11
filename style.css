@@ -1,35 +1,48 @@
+
 .header{
   background-image: url("IMG_0052.jpg/500x200");
   text-align: center;
   margin: 10px 20px 10px 20px;
+  font-family: 'Thasadith', sans-serif
+
+
 }
 .about-us{
   font-size: 20px;
   opacity: 0.5;
+  font-size: 25px;
+  font-family: 'Thasadith', sans-serif
   
 }
 .list-title{
   font-weight: bold;
+  font-family: 'Thasadith', sans-serif
+    h{
+     border: black 1px dotted
+  }
 }
 h1{
   color: Black;
-  font-family: Space Mono;
+  font-size: 30px;
+  font-family: 'Thasadith', sans-serif
 }
 
 h2{
   color: Black;
   font-size: 30px;
+  font-family: 'Thasadith', sans-serif
 }
 body{
-  font-family: Georgia;
   background-image: url("https://data.whicdn.com/images/307331900/original.gif");
 
 }
 h3{
-  color: purple;
+  color: gray;
+  font-family: 'Thasadith', sans-serif
 }
 h4{
-  color: purple;
+  color: gray;
+  font-family: 'Thasadith', sans-serif
 }
 table, tr, th, td {
   border: 1px dotted black;
@@ -46,12 +59,21 @@ table, tr, th, td {
   margin: 0 auto;
 }
 p {
- font-size: 25px;
+ font-size: 15px;
  font-weight: bold;
+ font-family: 'Thasadith', sans-serif
 }
 .cucopart, .brockpart, .cosmicpart, .avengerpart{
   font-size: 15px;
   opacity: 0.75;
+}
+li{
+  font-family: 'Thasadith', sans-serif
+}
+h5{
+  border: #ffffff 8px dotted;
+  width: 0 auto;
+  
 }
 
 
