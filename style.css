@@ -22,7 +22,7 @@ h2{
 }
 body{
   font-family: Georgia;
-  background-image: url("https://sftextures.com/texture/2748/0/2743/corner-pattern-background-light-grey-color-squared-90-degrees-lines-seamless-wallpaper-texture.jpg");
+  background-image: url("https://data.whicdn.com/images/307331900/original.gif");
 
 }
 h3{
@@ -49,7 +49,7 @@ p {
  font-size: 25px;
  font-weight: bold;
 }
-.cucopart, .brockpart, .cosmicpart{
+.cucopart, .brockpart, .cosmicpart, .avengerpart{
   font-size: 15px;
   opacity: 0.75;
 }
