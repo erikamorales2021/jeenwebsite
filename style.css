@@ -16,9 +16,14 @@ h1{
   font-family: Space Mono;
 }
 
+h2{
+  color: Black;
+  font-size: 30px;
+}
 body{
   font-family: Georgia;
   background-image: url("https://sftextures.com/texture/2748/0/2743/corner-pattern-background-light-grey-color-squared-90-degrees-lines-seamless-wallpaper-texture.jpg");
+
 }
 h3{
   color: purple;
@@ -43,6 +48,10 @@ table, tr, th, td {
 p {
  font-size: 25px;
  font-weight: bold;
+}
+.cucopart, .brockpart, .cosmicpart{
+  font-size: 15px;
+  opacity: 0.75;
 }
 
 
